@@ -1,0 +1,4 @@
+interface:
+  display_name: "Distill Scientific Writing Method"
+  short_description: "Extract evidence-backed methods from an author corpus"
+  default_prompt: "Use $distill-scientific-writing-method to distill this author corpus into an evidence-backed editorial playbook."
